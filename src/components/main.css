@@ -460,4 +460,14 @@
     .mid2 {
         width: 150%;
     }
+    .features {
+        width: 150%;
+    }
+    .about {
+        width: auto;
+        gap: 3rem;
+    }
+    .footer {
+        width: auto;
+    }
 }
